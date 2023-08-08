@@ -1,1 +1,4 @@
-//  alert("Yes")
+if ('') alert("Yes");
+else alert("Nooo");
+
+//yes
